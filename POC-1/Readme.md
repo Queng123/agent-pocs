@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a proof of concept that an agent can load the given website.
+This is a proof of concept that an agent can load the given website. You can find explanation in the [blog post](https://medium.com/@quentin.brejoin/my-first-agent-e5d019ac08f4).
 
 ## Example
 
