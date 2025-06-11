@@ -2,12 +2,7 @@ import openai
 import webbrowser
 import json
 import urllib.parse
-import pyautogui
-import time
-import base64
-from io import BytesIO
-from PIL import Image
-from typing import Dict, Any, Optional
+from typing import Dict, Any
 from dotenv import load_dotenv
 import os
 
