@@ -63,7 +63,7 @@ class WebSearchAgent:
                 "message": f"Failed to search Google for '{query}': {str(e)}",
             }
 
-    def analyze_page_and_click_link(self,  
+    def analyze_page_and_click_link(self, 
                                    link_text: Optional[str] = None, 
                                    link_index: int = 0, 
                                    css_selector: Optional[str] = None) -> Dict[str, Any]:
