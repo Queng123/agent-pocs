@@ -10,6 +10,7 @@ For more information about each POC, please refer to the main README file locate
 | POC | Description |
 |-----|-------------|
 | `/POC-1` | Agent that can load the given website on the Navigator |
+| `/POC-2` | Autonomous agent that can process web research |
 
 
 
