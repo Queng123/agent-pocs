@@ -482,7 +482,6 @@ class AutonomousWebSearchAgent:
         return self.generate_final_report()
 
     def generate_final_report(self) -> str:
-        """Generate final execution report"""
         
         status_messages = {
             AgentStatus.SUCCESS: "Mission accomplished successfully!",
